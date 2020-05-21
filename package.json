@@ -1,0 +1,19 @@
+{
+  "name": "trendy-travels",
+  "version": "1.0.0",
+  "description": "A travel app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LalaIAm/Trendy-Travels.git"
+  },
+  "author": "Lauren Thorud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LalaIAm/Trendy-Travels/issues"
+  },
+  "homepage": "https://github.com/LalaIAm/Trendy-Travels#readme"
+}
